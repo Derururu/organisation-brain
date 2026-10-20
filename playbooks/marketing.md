@@ -22,7 +22,7 @@ The bundled marketing guide clarifies that making the student-led relationship c
 
 ## Resources and promotion
 
-Use the [asset index](../assets/README.md) and the supplied [marketing kit gallery](../sources/marketing-kit/gallery.html) to find workshop, Studio Session, and showcase references. These are image references, not editable layered templates. Making marketing art is a separate task; the kit is preserved here and has not been installed or executed.
+Use the [asset index](../assets/README.md) and the supplied [marketing kit gallery](../sources/marketing-kit/gallery.html) to find workshop, Studio Session, and showcase references. These are image references, not editable layered templates. The kit is exposed as the repo-scoped [student-collective-marketing skill](../.agents/skills/student-collective-marketing/SKILL.md) for artwork requests.
 
 Possible channels from the supplied guide: personal LinkedIn/Instagram, personal invitations, a short class introduction with a professor's agreement, club newsletters/group chats, and campus posters. These are suggestions, not a publishing instruction. For workshops, wait for event approval before promotion.
 

@@ -2,7 +2,14 @@
 
 Last updated: 2026-10-20.
 
-No actual campus events, assigned tasks, or event outcomes were supplied. The initial knowledge base is available; the records below concern repository setup only.
+No actual campus events, assigned tasks, or event outcomes were supplied. The knowledge base and repo-scoped organisation and marketing skills are available; the records below concern repository setup only. Use `$organisation-brain Onboard me` from this repo to get started.
+
+## Completed: repo-scoped skills setup
+
+- Files: [organisation-brain skill](../.agents/skills/organisation-brain/SKILL.md), [marketing skill](../.agents/skills/student-collective-marketing/SKILL.md), and [usage instructions](../README.md).
+- Checks: both skill manifests validated; local reference links and the marketing gallery helper checked; an isolated agent exercised source intake, event-rule retrieval, and handoff writing. Test notes were kept outside this repo.
+- Limit: artwork generation and teammates' individual Codex environments were not tested.
+- Next action: open this repo as the working project in Codex and use either skill. Invite intended teammates as described below.
 
 ## Grant teammates access
 

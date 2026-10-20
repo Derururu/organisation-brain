@@ -19,7 +19,7 @@ The unnamed images have not been visually classified. Inspect an image before ch
 
 ## Marketing reference kit
 
-The [kit gallery](../sources/marketing-kit/gallery.html) and [gallery image](../sources/marketing-kit/assets/Design-Gallery.jpg) index workshop, Studio Session, and showcase references. The full supplied kit contents are under [sources/marketing-kit](../sources/marketing-kit), including source documents and original scripts. No scripts have been executed or skills installed.
+The [kit gallery](../sources/marketing-kit/gallery.html) and [gallery image](../sources/marketing-kit/assets/Design-Gallery.jpg) index workshop, Studio Session, and showcase references. The full supplied kit contents are under [sources/marketing-kit](../sources/marketing-kit), including source documents and original scripts. The repo-scoped [marketing skill](../.agents/skills/student-collective-marketing/SKILL.md) points to this package without duplicating it.
 
 ## Screenshot
 

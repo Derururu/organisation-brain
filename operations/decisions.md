@@ -13,3 +13,9 @@
 - Evidence: the user instructed “just do my account, keep it private”.
 - Repository: [Derururu/organisation-brain](https://github.com/Derururu/organisation-brain).
 - Teammate invitations have not been requested or sent.
+
+## 2026-10-20 — Make the repo's workflows discoverable as skills
+
+- Decision: the organisation brain should be a GitHub repo with skills set up.
+- Evidence: the user clarified “there is no need for a custom app, i want a github repo with skills so to say set up”.
+- Implementation: `.agents/skills/organisation-brain` routes knowledge work through the existing guides; `.agents/skills/student-collective-marketing` exposes the supplied kit through a relative symlink. No global skill installation is required.

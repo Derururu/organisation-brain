@@ -4,14 +4,15 @@ Last updated: 2026-10-20.
 
 No actual campus events, assigned tasks, or event outcomes were supplied. The initial knowledge base is available; the records below concern repository setup only.
 
-## Make the repo available to teammates
+## Grant teammates access
 
-- Status: local repository prepared; shared hosting pending.
+- Status: private GitHub repository created; collaborator access pending.
 - Owner: unassigned.
 - Context: the user selected a repository as the interface for the organisation brain.
 - Files: [onboarding](../README.md), [assistant instructions](../AGENTS.md), [open questions](../knowledge/open-questions.md).
-- Missing: chosen Git host/remote URL and member access list.
-- Next action: choose a private remote repository, push the local repo, and grant teammates access. Verify permissions before adding restricted material.
+- Remote: [Derururu/organisation-brain](https://github.com/Derururu/organisation-brain).
+- Missing: GitHub usernames of teammates who should receive access.
+- Next action: the owner should grant intended collaborators access in GitHub settings. No collaborators have been invited by the assistant.
 
 ## Complete organisation context
 

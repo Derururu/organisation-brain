@@ -33,7 +33,13 @@ Try:
 
 ## Working together
 
-This is a local Git repository. To make it available to teammates, put it on your organisation's private Git host and grant access. Each teammate can clone it and open their copy in Codex. Pull changes before work and commit/push changes afterwards; a local folder alone is not shared.
+The shared repository is [Derururu/organisation-brain](https://github.com/Derururu/organisation-brain), hosted privately in the user's GitHub account. The owner needs to grant teammates access before they can use it. Each teammate can clone it and open their copy in Codex:
+
+```sh
+git clone https://github.com/Derururu/organisation-brain.git
+```
+
+Pull changes before work and commit/push changes afterwards; changes kept only in a local folder are not shared.
 
 Use branches or pull requests when teammates edit the same material. A reviewer should check changes to program rules against their sources. Keep restricted participant records and credentials out of this general knowledge repo; Git retains past versions.
 

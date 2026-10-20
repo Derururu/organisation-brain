@@ -1,0 +1,114 @@
+Workshops
+Frequency
+4 per term
+Length
+60 minutes
+Attendance
+25+ students
+Workshops give students hands-on experience with ChatGPT through a guided activity. Help everyone get started, then have students work in small groups to develop their ideas and compare what they make.
+
+Choose an activity that fits your audience and adapt the examples to their interests. A website workshop could help a club organize its resources; a personal-assistant workshop could help students manage their projects. Make the workshop your own—adapt the activity, format, and pace to suit your group’s interests and experience level.
+
+As students work, circulate and help them improve what they’re making. Finish by inviting a few students to share. Students should leave having built something themselves, with a clearer sense of how ChatGPT can support their own interests and work.
+
+Checklist
+Follow these steps for every workshop you host on campus. Coordinate with your co-Lead throughout, using one shared deck and calendar event.
+
+
+Use the master deck for every workshop you host. Make a copy and follow its structure, including the built-in check-in and check-out slides. You’ll add your chosen activity and event details as you plan.
+
+Share your copy with your co-Lead so you can work from the same deck.
+
+Slide language
+First slide of the Student Collective workshop master deck
+Make a copy of the master deck
+(opens in a new tab)
+
+Choose who you’ll bring together
+Co-host with an existing club, class, or campus community. This can be a good starting point: they already have people to invite and may be able to help with the event.
+Or gather students yourself through your campus networks.
+If a potential co-host is connected to an AI company, please check with the program team first.
+
+Create an activity
+Think about who you’re gathering and what they’d find useful. Plan something that fits their interests and experience with AI, with time for everyone to try or build something.
+
+Explore our Activity Library for ideas. You can use an activity as it is, build on one to suit your audience, or create your own. The library’s 10 activities are beginner-friendly and can all be completed on a phone or computer using ChatGPT Work.
+
+Activity Library
+Give your workshop a compelling name
+Choose a title that makes your event appealing and easy to understand. Focus on what students will make, learn, or try. “Create your own portfolio” or “Practice for your next interview” gives someone a concrete reason to come, even if they haven’t used the tools before.
+
+Set the date, time, and place
+Choose a date and time, then book a room with a screen and space for students to work. Coordinate with any club you’re hosting with, and follow your university’s event requirements.
+
+
+Your university calendar
+Looks like you already have a calendar. Create your workshop here so all your campus events stay together.
+
+lu.ma/OpenAI-Collective-TUM
+(opens in a new tab)
+Before adding your event, check that your calendar has the right name, artwork, and settings.
+
+Check calendar setup
+Create a Luma event
+Use the details from your plan above to set up your event on Luma. Make sure it includes the following so your event can be approved:
+
+Title: Name the workshop topic so students know what they’ll make, learn, or try—for example, “Build your personal website”. You can add “x [Club]” if you’re co-hosting.
+Description: Explain the activity students will do and what they’ll leave with. If you mention OpenAI in the title or description, use “OpenAI Student Collective”. Don’t present the event as hosted directly by OpenAI.
+Event image: Add an image that fits the workshop.
+When and where: Add the date, accurate start and end times, and the location.
+Registration: Keep RSVPs open to anyone.
+Create event(opens in a new tab)
+
+You must submit your workshop for approval at least 48 hours before it starts.
+
+A valid Luma event on the central calendar is how we track that you’ve hosted your workshop and enables check-in during the event.
+
+The program team uses the following criteria to approve an event.
+
+Your event is on your university calendar, and the calendar is set up correctly.
+The title names the workshop topic, and the description explains the activity. Any reference to OpenAI uses “OpenAI Student Collective”. Don’t present the event as hosted directly by OpenAI.
+The event has an image, location, date, and accurate start and end times. Keep RSVPs open to anyone.
+Submit the existing event
+Open the central calendar below, select Add Event → Add Existing Luma Event, and paste your university event’s link. Submit the same event—you don’t need to create a second listing.
+
+Open the central calendar
+(opens in a new tab)
+Wait for approval, then promote
+The program team will confirm approval or request changes in your university Slack channel. Wait for approval before promoting or hosting your workshop.
+
+
+Include your Luma event link when promoting your workshop. For posters, add a QR code linking to the event so students can RSVP.
+
+We encourage you to get creative and have fun promoting your event on campus. We just ask that you follow the guidelines we’ve laid out in our marketing guide.
+
+Read the marketing guide
+To create promotional materials for your workshop, use our Marketing Materials skill for ChatGPT Work. Customize our workshop templates with your event details and colors, or bring your own creative ideas to life.
+
+Workshop app templateWorkshop game templateWorkshop deadlines templateWorkshop Codex template
+Preview the skill to see how it works. To use it, download the ZIP, upload it to a new chat in ChatGPT Work, and ask it to get started.
+
+Download skill
+
+Arrive early with your co-Lead to test the screen and decide who’ll lead the slides and who’ll help students as they work.
+
+Welcome students and help them check in
+Check-in opens 2 hours before your event’s start time on Luma, as long as your event is approved on the Global Luma calendar. Ask students to scan the QR code or open the check-in link in your slides to check in and claim ChatGPT Plus.
+
+Give everyone a few minutes to complete the steps before starting. If someone can’t get access, help them partner up for the event and flag the issue to the program team.
+
+Run the activity
+Use your deck to introduce the activity, then give students time to work. Walk around, help anyone who’s stuck, and invite students to show each other what they’ve tried. Take a few photos along the way. Aim for students to spend most of the workshop working and building on each other’s ideas.
+
+Check students out
+Ask students to complete the check-out form in your closing slides before they leave. Give everyone a few minutes to share their feedback.
+
+Students can check out up to 3 hours after the event’s end time on Luma.
+Invite students to your community and Studio Sessions
+Share your campus group chat so students can stay connected and hear about upcoming events. Invite them to your next Studio Session to work on their own projects, bring questions, and build together.
+
+
+We’d love to hear how your event went! Open #collective-events on Slack and select the Workshop Recap workflow to submit your recap. This also serves as your event report—once you’ve submitted it, you’re all done.
+
+Share your recap in Slack(opens in a new tab)
+OpenAI Privacy Policy
